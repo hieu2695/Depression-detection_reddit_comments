@@ -13,3 +13,13 @@ This project aims to identify depressed subjects utilizing comments scrapped fro
 ## Dataset
 
 The data was collected following the reasoning of JT Wolohan in his paper “Detecting Linguistic Traces of Depression in Topic-Restricted Text: Attending to Self-Stigmatized Depression with NLP” (2018). The data was scraped from two subreddits: /r/depression and /r/AskReddit using Python Reddit API Wrapper (PRAW). Comments in /r/depression are labeled as depression and comments in /r/AskReddit are labeled as non-depression. For future work, more data would be collected to make the dataset more diverse and representative.
+
+## Notebook
+
+The jupyter notebook with analysis can be found [here](https://hieu2695.github.io/Depression-detection_reddit_comments/Report.html).
+
+## Project Report
+
+The report for the project can be found [here](https://hieu2695.github.io/Depression-detection_reddit_comments/Project%20Report.pdf).
+
+
