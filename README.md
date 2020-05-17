@@ -16,7 +16,7 @@ The data was collected following the reasoning of JT Wolohan in his paper “Det
 
 ## Notebook
 
-The jupyter notebook with analysis can be found [here](https://hieu2695.github.io/Depression-detection_reddit_comments/Report.md).
+The jupyter notebook with analysis can be found [here](https://hieu2695.github.io/Depression-detection_reddit_comments/Report.html).
 
 ## Project Report
 
